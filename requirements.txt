@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+lxml
+rich
+gtfs-realtime-bindings
+renfepy
+gtfs-realtime-bindings
+protobuf
