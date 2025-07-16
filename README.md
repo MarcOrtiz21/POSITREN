@@ -1,5 +1,4 @@
 # POSITREN
-
 This project consists of a Python script to monitor and log delays on the FGC and Rodalies/Renfe train lines in Catalonia.
 
 ## Features
